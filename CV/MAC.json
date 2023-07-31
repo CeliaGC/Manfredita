@@ -300,6 +300,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "API",
+        "type": "technology"
+      },
+      {
         "name": "ASP.net",
         "type": "technology"
       },
