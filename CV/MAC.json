@@ -299,6 +299,14 @@
         },
         "finishDate": "2021-09-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
