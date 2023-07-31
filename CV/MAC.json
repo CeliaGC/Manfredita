@@ -1,0 +1,309 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Celia",
+      "surnames": "García Castilla",
+      "title": "Junior full stack web developer HTML | CSS | JS | C#| React | DOM | MUI | Bootstrap | AspNet Core | SQL",
+      "description": "Tras seguir un lindo camino de baldosas amarillas que comenzó con la idea de ser bibliotecaria, a día de hoy soy una formadora en desarrollo web con formación y proyectos full stack.\n\nMi stack tecnológico incluye lenguajes como HTML5, CSS, Javascript, C#, SQL, interfaz DOM, librerías como React Vite, Bootstrap, Materials UI, framework ASPNET Core 6, sistema de gestión de versiones Git y las herramientas MS Visual stuido code, Visual studio y MS SQL Server Studio Management.\n\nA todo ello sumo competencias transversales fundamentales para el trabajo en equipo, como la comunicación, un entusiasmo que se retroalimenta ad infinitum y una de las  capacidades más importantes en IT: la capacidad de adpatarme a cualquier stack de forma ágil y autónoma. Trabajar con marcos Agile-SCRUM ha sido un caldo de cultivo favorable para que estas predisposiciones dieran flor y fruto.\n\nEn mis equipos de trabajo me he situado como referente en aprendizaje continuo y como desarrolladora back end diseñando, bases de datos relacionales y construyéndolas en SQL Server Studio Management desde proyectos Web API con .NET Entity FW, atendiendo también el desarrollo del front según lo requiera cada proyecto.\n\nCon todas estas experiencias, hoy formo parte del equipo formador técnico de un bootcamp, acompañando a los futuros coders en su proceso de aprendizaje, y estoy abierta a oportunidades y retos de desarrollo web donde seguir incrementando competencias, alcanzando todos los objetivos que se presenten en cada proyecto del que forme parte.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/31/81a18d32-8cb9-44cc-b4fd-38761fcb11c0_mask-group.png",
+        "alt": "Mask group.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJL1uxiPtsEg0ROSjzbnHaoww)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "San Juan de Aznalfarache"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Fundación Don Bosco"
+        },
+        "roles": [
+          {
+            "name": "Formadora full stack",
+            "startDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "Formadora en bootcamp de desarrollo web full stack en el proyecto, a cargo de Factoría F5 y Fundación Don Bosco, \"Mérida Coders\"."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad CEU San Pablo"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de biblioteca",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Contrato en prácticas de 250 horas realizando tareas de:\nAtención a usuarios: préstamos, información, búsqueda de fondos…\nOrdenación y proceso técnico/administrativo de fondos\nGestión de fondos procedentes de donación\nOrganización de depósito"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Entity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "garciacastillacelia@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622680228",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Cobol",
+          "type": "technology"
+        },
+        {
+          "name": "Entity",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Visual Studio",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gusta enfrentarme a retos de programación, sobre todo en la parte back-end. Encuentro apasionante conducir los flujos de datos, por ejemplo con CRUD, construir y consumir APIs. En un día ideal de trabajo me toparía una incógnita, un error que no me deja compilar la solución, y no pararía de probar medios hasta superarlo. Me entusiasma comprender cómo se ha llegado de A a B y compartir lo aprendido con el resto de mi equipo. Y llegado ese punto, me gusta tanto enfrentar un nuevo reto como iterar una y otra vez los ya superados.\nMe gusta que se genere una librería en la que investigar y aportar recursos. \nSería ideal formar parte de una empresa que trabaje SCRUM y similares marcos Agile, con rituales de comunicación fluidos. Me gustan las retros y las daily's cuando se conducen con eficiencia. "
+  }
+}
