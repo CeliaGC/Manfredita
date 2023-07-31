@@ -205,6 +205,89 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Bootcamp",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Factoría F5",
+          "description": "Bootcamp de desarrollo web full-stack de 800 horas, trabajando con pedagogía activa, marco Agile y aprendizaje por competencias en base a proyectos individuales y grupales."
+        },
+        "finishDate": "2023-05-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Gitflow",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MaterialUI",
+            "type": "technology"
+          },
+          {
+            "name": "NPM",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "WebApi",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -299,6 +382,10 @@
       },
       {
         "name": "ASP.net",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
         "type": "technology"
       },
       {
