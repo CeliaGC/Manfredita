@@ -303,6 +303,16 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/celia-garcia-castilla",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/CeliaGC",
+          "type": "github"
+        }
+      ],
       "contactMails": [
         "garciacastillacelia@gmail.com"
       ],
