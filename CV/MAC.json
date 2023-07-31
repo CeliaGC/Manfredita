@@ -287,6 +287,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Inglés B2",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Cambridge English",
+          "description": "Acreditación de nivel B2 por Cambridge English mediante examen Linguaskill"
+        },
+        "finishDate": "2021-09-01"
       }
     ]
   },
