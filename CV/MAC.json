@@ -300,6 +300,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "ASP.net",
+        "type": "technology"
+      },
+      {
         "name": "Visual Studio",
         "type": "technology"
       }
