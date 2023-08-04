@@ -26,15 +26,81 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fundación Don Bosco"
+          "name": "Factoría F5 - Fundación Don Bosco"
         },
         "roles": [
           {
-            "name": "Formadora full stack",
+            "name": "Formadora de desarrollo web",
             "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Formadora en bootcamp de desarrollo web full stack en el proyecto, a cargo de Factoría F5 y Fundación Don Bosco, \"Mérida Coders\"."
+                "description": "Formadora en bootcamp de desarrollo web full stack. Proyecto \"Mérida Coders\" a cargo de Factoría F5 y Fundación Don Bosco en Mérida, Badajoz. \nAprendemos con pedagogía activa, trabajando por proyectos con marcos Agile  y evaluando competencias de desarrollo web y transversales.\nMis <strong>funciones principales</strong>  son:\n<li>Proporcionar recursos, apoyo y guía</li>\n<li>Realizar masterclass, mob programming y demos</li>\n<li>Planificación de roadmap de proyectos y stack</li>\n<li>Organización semanal</li>"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
               }
             ]
           }
