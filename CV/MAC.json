@@ -26,7 +26,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Factoría F5 - Fundación Don Bosco"
+          "name": "Factoría F5 - Fundación Don Bosco",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/04/f731e455-44a7-4fc2-b758-25cd4bcbb552_f5logo.jpg",
+            "alt": "F5logo.jpg"
+          },
+          "URL": "https://factoriaf5.org/"
         },
         "roles": [
           {
