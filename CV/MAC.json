@@ -39,7 +39,7 @@
             "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Formadora en bootcamp de desarrollo web full stack. Proyecto \"Mérida Coders\" a cargo de Factoría F5 y Fundación Don Bosco en Mérida, Badajoz. \nAprendemos con pedagogía activa, trabajando por proyectos con marcos Agile  y evaluando competencias de desarrollo web y transversales.\nMis funciones principales son:  \n-Proporcionar recursos, apoyo y guía  \n-Generar repositorios de consulta  \n-Realizar masterclass, mob programming y demos  \n-Planificación de roadmap de proyectos y stack  "
+                "description": "Trainer in full stack web development bootcamp. Project \"Mérida Coders\" by Factoría F5 and Fundación Don Bosco in Mérida, Badajoz. \nWe learn with active pedagogy, working by projects with Agile frameworks and evaluating web development and transversal competences.\nMy main functions are:  \n-Provide resources, support and guidance.  \n-Generate reference repositories  \n-Doing masterclass, mob programming and demos  \n-Project roadmap and stack planning  "
               }
             ],
             "competences": [
@@ -289,7 +289,7 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Factoría F5",
-          "description": "Bootcamp de desarrollo web full-stack de 800 horas, trabajando con pedagogía activa, marco Agile y aprendizaje por competencias en base a proyectos individuales y grupales."
+          "description": "Full-stack web development bootcamp, 800 hours. We worked with active pedagogy, Agile framework and competency-based learning based on individual and group projects."
         },
         "finishDate": "2023-05-01",
         "linkedCompetences": [
