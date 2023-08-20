@@ -132,6 +132,60 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "ApiRecipes - Backend for a kitchen academy app",
+          "description": "ApiRecipes project provides a back-end for a kitchen academy app. It is focused on being able to manage recipes and list their ingredients in a easy way, with the purpose of expedite the setting of the ingredients list, the quantities and so the purchasing process.",
+          "URL": "https://github.com/CeliaGC/APIRecipes"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -518,6 +572,11 @@
       }
     ],
     "desiredJobDescription": "Me gusta enfrentarme a retos de programación, sobre todo en la parte back-end. Encuentro apasionante conducir los flujos de datos, por ejemplo con CRUD, construir y consumir APIs. En un día ideal de trabajo me toparía una incógnita, un error que no me deja compilar la solución, y no pararía de probar medios hasta superarlo. Me entusiasma comprender cómo se ha llegado de A a B y compartir lo aprendido con el resto de mi equipo. Y llegado ese punto, me gusta tanto enfrentar un nuevo reto como iterar una y otra vez los ya superados.\nMe gusta que se genere una librería en la que investigar y aportar recursos. \nSería ideal formar parte de una empresa que trabaje SCRUM y similares marcos Agile, con rituales de comunicación fluidos. Me gustan las retros y las daily's cuando se conducen con eficiencia. ",
-    "goodPractices": "Standardization creates universal structures for communication and I want my work to add up in that sense: I take care of the architecture, naming conventions, documentation, that projects are scalable, maintainable and reusable.  \nI like to realize that something is hardcoded and then implement the best solution to avoid it."
+    "goodPractices": "Standardization creates universal structures for communication and I want my work to add up in that sense: I take care of the architecture, naming conventions, documentation, that projects are scalable, maintainable and reusable.  \nI like to realize that something is hardcoded and then implement the best solution to avoid it.",
+    "projects": [
+      {
+        "name": "ApiRecipes - Backend for a kitchen academy app"
+      }
+    ]
   }
 }
