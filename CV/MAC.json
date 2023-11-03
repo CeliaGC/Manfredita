@@ -20,7 +20,17 @@
         "region": "Andalucía",
         "municipality": "San Juan de Aznalfarache"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/celia-garcia-castilla"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/CeliaGC"
+      }
+    ]
   },
   "experience": {
     "jobs": [
