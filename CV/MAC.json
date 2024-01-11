@@ -396,6 +396,12 @@
       },
       {
         "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
           "type": "technology"
         }
@@ -663,7 +669,7 @@
         "type": "technology"
       },
       {
-        "name": "Visual Studio",
+        "name": "React",
         "type": "technology"
       }
     ],
