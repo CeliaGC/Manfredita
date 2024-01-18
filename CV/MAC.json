@@ -237,6 +237,43 @@
     "projects": [
       {
         "details": {
+          "name": "Robot test",
+          "description": "El clásico Robot Toy de prueba técnica. Estoy orgullosa de la calidad del código y el diseño atractivo de la interfaz, pues son reflejo del cariño que tengo a Walk-e y todo lo que disfruté y aprendí a partes iguales cuando lo creé. Ese mockeo del testing no te lo hace cualquier junior! ",
+          "URL": "https://github.com/CeliaGC/walk-e"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-11-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "ApiRecipes - Backend for a kitchen academy app",
           "description": "ApiRecipes project provides a back-end for a kitchen academy app. It is focused on being able to manage recipes and list their ingredients in a easy way, with the purpose of expedite the setting of the ingredients list, the quantities and so the purchasing process.",
           "URL": "https://github.com/CeliaGC/APIRecipes"
@@ -678,6 +715,9 @@
     "projects": [
       {
         "name": "ApiRecipes - Backend for a kitchen academy app"
+      },
+      {
+        "name": "Robot test"
       }
     ]
   }
