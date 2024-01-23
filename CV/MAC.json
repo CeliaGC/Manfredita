@@ -49,14 +49,10 @@
             "startDate": "2023-12-01",
             "challenges": [
               {
-                "description": "Formadora en bootcamp de desarrollo web full stack"
+                "description": "Formadora técnica de desarrollo web full stack. Proyecto\"Mérida Coders\" de Factoría F5 y Fundación Don Bosco en Mérida, Badajoz. \nAprendemos con pedagogía activa, trabajando por proyectos con marcos Agile y evaluando competencias tranversales y de desarrollo web.\nMis funciones principales son:\n-Proporcionar recursos, apoyo y guía a los/las aprendices.\n-Generar repositorios de referencia para el aprendizaje\n-Preparar masterclass, demos y mob programming\n-Planificar el roadmap de proyectos y el stack tecnológico."
               }
             ],
             "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              },
               {
                 "name": "API",
                 "type": "technology"
@@ -70,15 +66,15 @@
                 "type": "technology"
               },
               {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
                 "name": "CSS",
                 "type": "technology"
               },
               {
                 "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
                 "type": "technology"
               },
               {
@@ -98,6 +94,10 @@
                 "type": "technology"
               },
               {
+                "name": "Pytest",
+                "type": "technology"
+              },
+              {
                 "name": "Python",
                 "type": "technology"
               },
@@ -111,10 +111,6 @@
               },
               {
                 "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Swagger",
                 "type": "technology"
               },
               {
