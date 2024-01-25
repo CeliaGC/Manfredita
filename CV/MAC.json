@@ -568,6 +568,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
@@ -575,12 +581,6 @@
       {
         "skill": {
           "name": "Pensamiento creativo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resistencia a la frustración",
           "type": "practice"
         }
       }
