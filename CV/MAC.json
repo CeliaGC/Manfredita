@@ -271,6 +271,31 @@
       },
       {
         "details": {
+          "name": "Robot Toy",
+          "description": "El clásico Robot Toy hecho con TDD ",
+          "URL": "https://celiagc.github.io/walk-e/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/10/0f96a57a-40c3-4047-ae04-446192d492ed_robot_south.png",
+            "alt": "robot_south.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-10-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "ApiRecipes - Backend for a kitchen academy app",
           "description": "ApiRecipes project provides a back-end for a kitchen academy app. It is focused on being able to manage recipes and list their ingredients in a easy way, with the purpose of expedite the setting of the ingredients list, the quantities and so the purchasing process.",
           "URL": "https://github.com/CeliaGC/APIRecipes"
@@ -706,6 +731,9 @@
     "projects": [
       {
         "name": "ApiRecipes - Backend for a kitchen academy app"
+      },
+      {
+        "name": "Robot Toy"
       },
       {
         "name": "Robot test"
