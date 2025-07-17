@@ -625,6 +625,12 @@
       ],
       "contactMails": [
         "garciacastillacelia@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622680228",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
