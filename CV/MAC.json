@@ -727,12 +727,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "CSS",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer"
       ]
