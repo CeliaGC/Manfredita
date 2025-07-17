@@ -36,6 +36,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Sisteplant",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/17/43dc5caa-4cbd-4e4f-8a3d-88a944b24e16_1000068796.jpg",
+            "alt": "1000068796.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/sisteplant/"
+        },
+        "roles": [
+          {
+            "name": "Desarrolladora",
+            "startDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "Desarrolladora de I+D en el área de Desarrollo de Productos a Medida para Captor (MES), participando en el diseño, implementación y optimización de soluciones personalizadas para clientes industriales, integrando lógica de negocio, bases de datos y automatización de procesos.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure DevOps",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Factoría F5 - Asociación Arrabal Aid",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/11/214359c2-e6aa-4462-9f54-9ba0edad9726_f5.jpg",
