@@ -691,6 +691,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure DevOps",
+          "type": "technology"
+        },
+        {
           "name": "C#",
           "type": "technology"
         },
