@@ -707,6 +707,10 @@
           "type": "technology"
         },
         {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
           "name": "Razor",
           "type": "technology"
         },
