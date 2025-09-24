@@ -707,6 +707,10 @@
           "type": "technology"
         },
         {
+          "name": "Razor",
+          "type": "technology"
+        },
+        {
           "name": "SQL",
           "type": "technology"
         },
