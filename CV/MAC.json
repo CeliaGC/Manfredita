@@ -707,19 +707,11 @@
           "type": "technology"
         },
         {
-          "name": "React",
-          "type": "technology"
-        },
-        {
           "name": "SQL",
           "type": "technology"
         },
         {
           "name": "Visual Studio",
-          "type": "technology"
-        },
-        {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       ],
