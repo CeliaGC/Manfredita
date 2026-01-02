@@ -430,12 +430,6 @@
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -509,12 +503,6 @@
       {
         "skill": {
           "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
           "type": "technology"
         }
       },
@@ -749,11 +737,11 @@
         "type": "technology"
       },
       {
-        "name": "C#",
+        "name": "Git",
         "type": "technology"
       },
       {
-        "name": "Git",
+        "name": "SQL",
         "type": "technology"
       }
     ],
